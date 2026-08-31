@@ -1,0 +1,25 @@
+{
+  "values": {
+    "focusMinutes": 22,
+    "shortBreakMinutes": 5,
+    "longBreakMinutes": 15,
+    "longBreakInterval": 4,
+    "autoStartBreaks": true,
+    "autoStartFocus": false,
+    "notificationsEnabled": true,
+    "soundEnabled": true,
+    "promptForNote": true,
+    "showMiniTimer": true,
+    "minimizeToTray": true,
+    "capacitiesPollMinutes": 15,
+    "drivePollMinutes": 5,
+    "writeback": {
+      "status": true,
+      "sessionBlock": true,
+      "dailyNote": true
+    }
+  },
+  "fieldUpdatedAt": {
+    "focusMinutes": "2026-08-31T13:32:15.602Z"
+  }
+}
