@@ -1,1 +1,2 @@
 {"id":"01a05bbc-17f9-7389-9c4e-1965c45d599d","deviceId":"01a0576e-d78a-7038-b1b5-0364ca9c9dac","taskId":null,"taskTitle":null,"kind":"focus","plannedMs":60000,"actualMs":60000,"startedAt":"2026-09-01T06:50:48.697Z","endedAt":"2026-09-01T06:51:48.697Z","outcome":"completed"}
+{"id":"01a05bbd-0377-71c7-9066-2d4fcacbfe26","deviceId":"01a0576e-d78a-7038-b1b5-0364ca9c9dac","taskId":null,"taskTitle":null,"kind":"short-break","plannedMs":300000,"actualMs":7322,"startedAt":"2026-09-01T06:51:48.982Z","endedAt":"2026-09-01T06:51:56.304Z","outcome":"abandoned"}
