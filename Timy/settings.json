@@ -4,7 +4,7 @@
     "shortBreakMinutes": 5,
     "longBreakMinutes": 15,
     "longBreakInterval": 4,
-    "autoStartBreaks": true,
+    "autoStartBreaks": false,
     "autoStartFocus": false,
     "notificationsEnabled": true,
     "soundEnabled": true,
@@ -21,6 +21,7 @@
     }
   },
   "fieldUpdatedAt": {
-    "focusMinutes": "2026-09-01T06:50:47.002Z"
+    "focusMinutes": "2026-09-01T06:50:47.002Z",
+    "autoStartBreaks": "2026-09-01T07:16:20.953Z"
   }
 }
