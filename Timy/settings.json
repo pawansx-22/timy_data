@@ -1,6 +1,6 @@
 {
   "values": {
-    "focusMinutes": 24,
+    "focusMinutes": 14,
     "shortBreakMinutes": 5,
     "longBreakMinutes": 15,
     "longBreakInterval": 4,
@@ -10,6 +10,7 @@
     "soundEnabled": true,
     "promptForNote": true,
     "showMiniTimer": true,
+    "surfaceOnFocusEnd": true,
     "minimizeToTray": true,
     "capacitiesPollMinutes": 15,
     "drivePollMinutes": 5,
@@ -20,6 +21,6 @@
     }
   },
   "fieldUpdatedAt": {
-    "focusMinutes": "2026-08-31T16:43:45.570Z"
+    "focusMinutes": "2026-09-01T06:50:43.808Z"
   }
 }
