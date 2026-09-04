@@ -1,6 +1,6 @@
 {
   "values": {
-    "focusMinutes": 25,
+    "focusMinutes": 26,
     "shortBreakMinutes": 5,
     "longBreakMinutes": 15,
     "longBreakInterval": 4,
@@ -21,7 +21,7 @@
     }
   },
   "fieldUpdatedAt": {
-    "focusMinutes": "2026-09-01T08:36:16.822Z",
+    "focusMinutes": "2026-09-04T07:39:30.262Z",
     "autoStartBreaks": "2026-09-01T07:16:20.953Z"
   }
 }
